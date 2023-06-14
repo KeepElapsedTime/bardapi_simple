@@ -36,4 +36,17 @@ python bard_api.py
 
 
 ---
+
+How to find SECURE?
+
+
+Go to http://bard.google.com/
+
+Login your google account
+
+Use F12 to open console
+
+Session: Application → Cookies → Secure-1PSID cookie.(have dot)
+
+---
 Source Code:https://github.com/tingruikp0925/bardapi_simple
