@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-pip install bardapi>=0.1.8
 # simple usage
 import bardapi
 from bardapi import Bard
