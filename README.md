@@ -20,12 +20,18 @@ brew install python3
 
 Install requirement
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
+```
+
+Change your token & input on bard_api.py
+```
+token='YOUR-SECURE-1PSID-HERE'
+input_text = "Hello Bard!"
 ```
 
 Run it
 ```
-python  bard_api.py
+python bard_api.py
 ```
 
 
