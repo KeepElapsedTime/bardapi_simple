@@ -1,1 +1,1 @@
-bardapi>=0.1.8
+bardapi==0.1.8
