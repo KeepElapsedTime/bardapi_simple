@@ -50,3 +50,6 @@ Session: Application → Cookies → Secure-1PSID cookie.(have dot)
 
 ---
 Source Code:https://github.com/tingruikp0925/bardapi_simple
+
+---
+![](https://hackmd.io/_uploads/S1I5rEF42.png)
