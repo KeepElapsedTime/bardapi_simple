@@ -1,5 +1,8 @@
 # Build usage simple Bard API
 
+[![hackmd-github-sync-badge](https://hackmd.io/GOB3jDOEQfWDUZt9jEqlmg/badge)](https://hackmd.io/GOB3jDOEQfWDUZt9jEqlmg)
+
+
 ###### tags: `public`,`build`,`bard`
 
 
