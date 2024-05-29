@@ -1,4 +1,4 @@
-# Build usage simple Bard API
+# Build usage simple Bard API 
 
 [![hackmd-github-sync-badge](https://hackmd.io/GOB3jDOEQfWDUZt9jEqlmg/badge)](https://hackmd.io/GOB3jDOEQfWDUZt9jEqlmg)
 
@@ -7,6 +7,8 @@
 
 
 ## How to use?
+
+- This repo was been retire , bard has been change to Gemini
 
 ---
 Clone from my github
